@@ -140,15 +140,17 @@ footer .glyphicon {
   -webkit-animation-duration: 1s;
   visibility: visible;
 }
-img {
+
+img.myimg{
   border: 1px solid #ddd;
   border-radius: 10px;
   padding: 15px;  
 }
-img:hover {
+img.myimg:hover {
   border: 2px solid red;
   padding: 25px;  
 }
+
 @keyframes slide {
   0% {
     opacity: 0;
