@@ -140,6 +140,17 @@ footer .glyphicon {
   -webkit-animation-duration: 1s;
   visibility: visible;
 }
+.dropdown-menu {
+  background-color: #877a45;
+  }
+  .dropdown-menu li.active a {
+  color: #fff !important;
+  background-color:#877a45 !important;
+  }
+  .dropdown-menu li a:hover {
+  color: #fff !important;
+  background-color: #877a45 !important;
+  }
 
 img.myimg{
   border: 1px solid #ddd;
